@@ -20,6 +20,9 @@ OK, that’s it! Hope you find interesting.
 
 [The_End_Poem.md](./The_End_Poem.md)
 
+## Read About It
+Read about "The egg and the rock's" story of freeing the Minecraft End Poem [here](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend).
+
 ## License
 
 The Minecraft credits narrative aka "The End Poem" is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
