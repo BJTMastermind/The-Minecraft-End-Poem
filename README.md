@@ -25,4 +25,4 @@ Read about "The egg and the rock's" story of freeing the Minecraft End Poem [her
 
 ## License
 
-The Minecraft credits narrative aka "The End Poem" is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
+The Minecraft credits narrative aka "The End Poem" is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](./LICENSE).
