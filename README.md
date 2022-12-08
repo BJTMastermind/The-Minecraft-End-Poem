@@ -1,4 +1,4 @@
-# Minecraft-The-End-Poem
+# The Minecraft End Poem
 
 ## A STORY FOR THE END CREDITS OF MINECRAFT.
 
